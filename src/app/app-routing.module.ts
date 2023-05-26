@@ -8,7 +8,7 @@ const routes: Routes = [
   { path:'', redirectTo: 'login', pathMatch: 'full'}, //establecer una página de inicio de sesión como la primera página visible para los usuarios.
   { path:'login', component: LoginComponent},
   { path:'home', component: HomeComponent},
-  { path: 'movie', component: MovieComponent},
+  { path: 'movie/:type/:id', component: MovieComponent},
   { path: '**', component: LoginComponent}  // capturar cualquier ruta no definida explícitamente y se utiliza como una ruta comodín o genérica.
 ];
 
