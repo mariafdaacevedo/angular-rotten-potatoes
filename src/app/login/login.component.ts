@@ -8,8 +8,8 @@ import { RouteReuseStrategy, Router } from '@angular/router';
   styleUrls: ['./login.component.scss']
 })
 export class LoginComponent {
-  username= "";
-  password= "";
+  username: string = '12345';
+  password: string = '12345';
   errorMsg = '';
 
   constructor(
