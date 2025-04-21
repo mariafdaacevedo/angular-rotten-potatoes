@@ -2,26 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
-## Development server
+Rotten Potatoes 🎬
+Aplicación web desarrollada en Angular que permite a los usuarios iniciar sesión para explorar películas populares y en tendencia actualmente en cartelera. Los usuarios pueden ver detalles como la calificación promedio que han recibido las películas por parte del público.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🚀 Demo en vivo: rotten-potatoes-movies.netlify.app
 
-## Code scaffolding
+![image](https://github.com/user-attachments/assets/3e39d3f5-03db-453c-ae69-2edbf37c241e)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://github.com/user-attachments/assets/10c3dc11-48cd-42be-af79-c63e603faa94)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
